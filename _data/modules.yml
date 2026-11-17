@@ -1,0 +1,60 @@
+- slug: start
+  name: 学习路径
+  path: /start/
+  stage: 0
+  desc: 四个阶段、8 周计划、进度清单——不知道从哪开始时看这里
+- slug: pokemon
+  name: 认识宝可梦
+  path: /pokemon/
+  stage: 1
+  desc: 宝可梦世界、人气宝可梦、IP 为什么能撑起卡价
+- slug: cards
+  name: 卡牌入门
+  path: /cards/
+  stage: 1
+  desc: 卡面、系列、稀有度、版本、成色、保存和玩法基础
+- slug: grading
+  name: 评级与收藏
+  path: /grading/
+  stage: 2
+  desc: PSA 等评级机构、等级、Pop、验真和送评
+- slug: market
+  name: 市场与价格
+  path: /market/
+  stage: 2
+  desc: 查价、定价、收购、卖出渠道和市场周期
+- slug: open-shop
+  name: 在日本开店
+  path: /open-shop/
+  stage: 3
+  desc: 店型、选址、成本、许可、进货和开业时间表
+- slug: operate
+  name: 运营日常
+  path: /operate/
+  stage: 4
+  desc: 陈列防盗、库存、活动、接待和日语话术
+- slug: promotion
+  name: 推广获客
+  path: /promotion/
+  stage: 4
+  desc: Google 地图、社交媒体、内容日历和开业活动
+- slug: cases
+  name: 店铺案例
+  path: /cases/
+  stage: 4
+  desc: 怎么拆解一家真实的店，附模板
+- slug: tools
+  name: 工具箱
+  path: /tools/
+  stage: 0
+  desc: 收支平衡和收购定价计算器、各类清单和模板
+- slug: glossary
+  name: 术语表
+  path: /glossary/
+  stage: 0
+  desc: 中 / 日 / 英三语对照，随查随用
+- slug: sources
+  name: 信息源
+  path: /sources/
+  stage: 0
+  desc: 官方与行情信息源地图，每周怎么追

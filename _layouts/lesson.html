@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="lesson">
+  {% if page.module %}<p class="crumb"><a href="{{ '/' | relative_url }}">首页</a> / {{ page.module_name | default: page.module }}{% if page.level %} · {{ page.level }}{% endif %}</p>{% endif %}
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+  {% if page.next_url %}
+  <p class="next-box">下一篇 → <a href="{{ page.next_url | relative_url }}">{{ page.next_title }}</a></p>
+  {% endif %}
+</article>

@@ -1,0 +1,27 @@
+title: 宝可梦卡牌店 · 开店学堂
+description: 给零基础、在日本开宝可梦卡牌店的人：先学懂宝可梦和卡，再懂市场、开店、运营和推广。
+lang: zh-CN
+locale: zh_CN
+timezone: Asia/Tokyo
+url: ""
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+feed:
+  path: feed.xml
+defaults:
+  - scope: { path: "" }
+    values: { layout: lesson }
+exclude:
+  - README.md
+  - ROADMAP.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
