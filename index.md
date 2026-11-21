@@ -15,8 +15,8 @@ permalink: /
 
 </div>
 
-![卡牌店内景示意图]({{ '/assets/images/hero-shop-interior.webp' | relative_url }})
-*图注：卡牌店内景示意图——展柜、活页册区与对战区的分区示意，非真实店铺照片。*
+![东京秋叶原 Mandarake 店内实拍](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Interiors_of_Mandarake%2C_Akibahara.jpg/1280px-Interiors_of_Mandarake%2C_Akibahara.jpg)
+*图注：真实照片——东京秋叶原二手周边店 Mandarake 的店内货架通道。卡牌店的内场陈列可参考这种「高密度货架＋分类吊牌」的摆法。图源：Wikimedia Commons（CC BY-SA 4.0）。*
 
 ## 你现在在哪一步？
 

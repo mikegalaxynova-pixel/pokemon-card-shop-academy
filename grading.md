@@ -13,8 +13,8 @@ next_title: 市场与价格：查价、定价、收购和卖出
 **学完你能做什么**：看懂一张评级卡的标签、会验认证号、会判断一张生卡值不值得送评。
 **适合谁**：阶段 2 必读。
 
-![评级卡特写示意图]({{ '/assets/images/grading-slab-closeup.webp' | relative_url }})
-*图注：评级卡（带壳单卡）特写示意图——标签与认证号位置示意，非真实评级卡照片。*
+![PSA 评级卡实物照片](https://upload.wikimedia.org/wikipedia/commons/d/d1/1909_T206_Honus_Wagner_Baseball_Card_with_PSA_grade_EX_5-MC.jpg)
+*图注：真实照片——一张 PSA 评级卡实物（棒球卡 T206 Honus Wagner，EX 5）。评级壳与顶部标签（卡名、分数、认证号）的样式各品类通用，宝可梦卡送评回来的也是同款壳。图源：Wikimedia Commons（Public domain）。*
 
 ## 一、主要评级机构
 
@@ -105,8 +105,6 @@ next_title: 市场与价格：查价、定价、收购和卖出
 
 打包做错，轻则退件、重则运输中压伤——送评前照下面清单和顺序执行，不要临场发挥。下例数量按「一次送评 10 张（示例）」准备，多送按比例增减。
 
-![送评打包平铺示意图]({{ '/assets/images/grading-packing-flatlay.webp' | relative_url }})
-*图注：送评打包用品平铺示意图——卡膜、硬卡套、编号贴与缓冲材料的摆放示意，非真实送评照片。*
 
 **材料清单（以送评 10 张为例，数量为示例）**：
 

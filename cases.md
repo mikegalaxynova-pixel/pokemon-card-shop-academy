@@ -13,8 +13,8 @@ next_title: 避坑：新手最容易踩的 10 个坑
 **学完你能做什么**：用统一模板拆解任何一家卡店，并把结论变成自己的行动项；开业前按观察清单至少各去一次代表性店铺。
 **适合谁**：阶段 4；也适合每次逛店时随手练。
 
-![商店街氛围示意图]({{ '/assets/images/cases-shopping-street.webp' | relative_url }})
-*图注：商店街氛围示意图，非案例店铺照片——本章提及的真实店铺均不配此图，此图只示意逛店观察的街区氛围。*
+![中野商店街实拍](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Sh%C5%8Dtengai_of_Nakano_Interior.jpg/1280px-Sh%C5%8Dtengai_of_Nakano_Interior.jpg)
+*图注：真实照片——东京中野 Sun Mall 商店街内景。本章提及的真实店铺均不配此图，此图只示意逛店观察的街区氛围。图源：Wikimedia Commons（CC BY-SA 4.0）。*
 
 ## 六问拆解法
 

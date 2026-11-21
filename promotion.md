@@ -13,8 +13,8 @@ next_title: 店铺案例：怎么拆解一家真实的店
 **学完你能做什么**：开业前把三个阵地搭好，排出第一个月的内容日历，照着三个帖子模板发 X。
 **适合谁**：阶段 4；旧站把推广排在最后，本站认为它是开业成败的一半，提前学。
 
-![用手机发布店铺动态示意图]({{ '/assets/images/promotion-sns-phone.webp' | relative_url }})
-*图注：用手机发布店铺动态示意图——拍摄单卡与编辑帖子的场景示意，非真实店铺照片。*
+![手持手机打开 X（Twitter）实拍](https://live.staticflickr.com/1546/25314591330_6d3243c34f_b.jpg)
+*图注：真实照片——手持手机打开 X（原 Twitter）的页面。店铺动态与到货通知主要就发在这里。图源：Flickr（CC0）。*
 
 ## 一、Google 商家资料（Google Business Profile）——第一优先级
 

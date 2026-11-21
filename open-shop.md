@@ -13,8 +13,8 @@ next_title: 运营日常：陈列、防盗、库存和接待
 **学完你能做什么**：列出你自己店的成本表、手续清单和开业倒计时表。
 **适合谁**：阶段 3 必读。法规部分只讲框架和办理路径，具体以官方最新说明和专业人士意见为准，不构成法律建议。
 
-![卡牌店门头示意图]({{ '/assets/images/open-shop-storefront.webp' | relative_url }})
-*图注：卡牌店门头示意图——招牌与橱窗陈列示意，非真实店铺照片。*
+![卡牌店橱窗实拍](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Window_of_a_Trading_Card_Shop_in_Hsinchu_City.jpg/1280px-Window_of_a_Trading_Card_Shop_in_Hsinchu_City.jpg)
+*图注：真实照片——台湾新竹一家卡牌店的临街橱窗：大海报＋整盒陈列＋营业时间牌，是小店门头最实用的组合。图源：Wikimedia Commons（CC BY-SA 4.0）。*
 
 ## 一、先选店型
 
@@ -81,8 +81,6 @@ next_title: 运营日常：陈列、防盗、库存和接待
 
 **15 坪平面布局示意**：15 坪的小店通常把带锁展柜与收购台放在最里侧靠收银处、活页册区放中段、对战区与收银动线分开（分区原则见[运营](/operate/)陈列篇），下图只看分区关系，不看尺寸比例。
 
-![15坪店铺平面布局示意图]({{ '/assets/images/open-shop-floorplan.webp' | relative_url }})
-*图注：店铺平面布局示意图——15 坪小店的展柜、收购台、册子区与对战区分区示意，非真实店铺图纸。*
 
 ### 三种店型模型：同一门生意，三种活法
 
