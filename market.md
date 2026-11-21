@@ -13,8 +13,6 @@ next_title: 在日本开店：店型、选址、成本和手续
 **学完你能做什么**：给任何一张卡定出有依据的收购价和售价，并说清依据。
 **适合谁**：阶段 2 必读。
 
-![用平板查看数据图表实拍](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Business_man_with_graph_chart_on_iPad.jpg/1280px-Business_man_with_graph_chart_on_iPad.jpg)
-*图注：真实照片——用平板查看数据图表的场景。盯盘看的就是数据表与走势记录，工作形式与此类似（图中数据与卡牌行情无关）。图源：Wikimedia Commons（CC0）。*
 
 ## 一、查价渠道（日本开店常用）
 

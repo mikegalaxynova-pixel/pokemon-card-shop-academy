@@ -38,6 +38,11 @@
   path: /promotion/
   stage: 4
   desc: Google 地图、社交媒体、内容日历和开业活动
+- slug: finance
+  name: 财务税务
+  path: /finance/
+  stage: 4
+  desc: 个人还是法人、青色申告、卡店科目、消费税与每月对账清单
 - slug: cases
   name: 店铺案例
   path: /cases/
