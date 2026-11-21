@@ -43,6 +43,16 @@
   path: /cases/
   stage: 4
   desc: 怎么拆解一家真实的店，附模板
+- slug: pitfalls
+  name: 避坑
+  path: /pitfalls/
+  stage: 4
+  desc: 新手最容易踩的 10 个坑，每个都标了代价
+- slug: faq
+  name: 常见问题
+  path: /faq/
+  stage: 0
+  desc: 零基础多久能开店、不会日语能开吗、一个人能开吗
 - slug: tools
   name: 工具箱
   path: /tools/
