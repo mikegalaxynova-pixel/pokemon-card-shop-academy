@@ -20,12 +20,12 @@ permalink: /tools/
   <p class="result" id="be-result"></p>
 </div>
 
-公式：保本月营业额 = 每月固定成本 ÷ 毛利率。算完去看[开店](/open-shop/)的选址部分：保本日均单量在你蹲点数的人流面前成不成立，才是决策依据。
+公式：保本月营业额 = 每月固定成本 ÷ 毛利率。算完去看[开店]({{ "/open-shop/" | relative_url }})的选址部分：保本日均单量在你蹲点数的人流面前成不成立，才是决策依据。
 
 ## 二、收购定价计算器
 
 <div class="calc" id="buyback-calc">
-  <label>预期售价（日元，先按[市场](/market/)的方法查两个渠道）</label><input type="number" id="bk-price" value="20000">
+  <label>预期售价（日元，先按[市场]({{ "/market/" | relative_url }})的方法查两个渠道）</label><input type="number" id="bk-price" value="20000">
   <label>目标毛利率（%）</label><input type="number" id="bk-margin" value="25">
   <label>预留费用：评级、平台费、损耗（日元）</label><input type="number" id="bk-fee" value="0">
   <p class="result" id="bk-result"></p>
@@ -60,7 +60,7 @@ permalink: /tools/
 
 ## 五、模板索引
 
-- 案例拆解模板：见[店铺案例](/cases/)
-- 每周内容日历模板：见[推广获客](/promotion/)
-- 一周运营节奏表：见[运营日常](/operate/)
-- 查价 SOP：见[市场与价格](/market/)的小行动
+- 案例拆解模板：见[店铺案例]({{ "/cases/" | relative_url }})
+- 每周内容日历模板：见[推广获客]({{ "/promotion/" | relative_url }})
+- 一周运营节奏表：见[运营日常]({{ "/operate/" | relative_url }})
+- 查价 SOP：见[市场与价格]({{ "/market/" | relative_url }})的小行动

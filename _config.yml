@@ -3,8 +3,8 @@ description: 给零基础、在日本开宝可梦卡牌店的人：先学懂宝�
 lang: zh-CN
 locale: zh_CN
 timezone: Asia/Tokyo
-url: ""
-baseurl: ""
+url: "https://mikegalaxynova-pixel.github.io"
+baseurl: "/pokemon-card-shop-academy"
 markdown: kramdown
 kramdown:
   input: GFM

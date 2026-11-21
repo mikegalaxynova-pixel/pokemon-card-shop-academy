@@ -22,7 +22,7 @@ permalink: /sources/
 - Mercari 已售出列表：生卡的成交带和速度
 - 大型卡店公开买取表：同行收购价
 - eBay / PriceCharting：国际价格参照
-- 用法见[市场与价格](/market/)：至少两个渠道对得上才采用
+- 用法见[市场与价格]({{ "/market/" | relative_url }})：至少两个渠道对得上才采用
 
 ## 三、同行源（学打法）
 
